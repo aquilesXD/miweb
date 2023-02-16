@@ -1,1 +1,2 @@
 prueba desde la consola de git
+prueba de otro git status
